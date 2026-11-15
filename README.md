@@ -9,7 +9,7 @@
 
 ## About
 
-ANSH LABS turns curious ideas into considered objects and digital experiences. The studio explores hardware, robotics, software and product design with a focus on useful function, precise geometry and thoughtful colour, material and finish (CMF).
+ANSH LABS turns curious ideas into considered objects and digital experiences. The studio explores hardware, robotics, software and product design with a focus on useful function, precise geometry and thoughtful colour, materials and finish.
 
 The website is a responsive studio portfolio built to present selected explorations, the studio's design principles and an interactive 3D product study.
 
@@ -20,7 +20,7 @@ The website is a responsive studio portfolio built to present selected explorati
 | **SPIKER 1 DUO** | Hardware / Audio | Compact wired stereo speaker system concept focused on balanced sound, intuitive controls and a precise desktop footprint. |
 | **AL-BOT 1** | Robotics | Desktop companion concept exploring expressive movement, useful presence and an approachable interface. |
 | **TOOLS FOR THINKERS** | Software | Focused digital experiences and utilities designed to remove friction from everyday work. |
-| **THE MATERIAL STUDY** | Research / CMF | Exploration of finishes, textures, tolerances and product details. |
+| **THE MATERIAL STUDY** | Research / Product Design | Exploration of finishes, textures, tolerances and product details. |
 
 These are presented as explorations and concepts; the website does not claim that every project is a finished or commercially available product.
 
@@ -40,7 +40,7 @@ No frontend framework or build step is required for the current static site.
 
 - Responsive layout for mobile, tablet and desktop widths
 - Custom ANSH LABS geometric A mark and matching favicon
-- Graphite, muted green and CMF orange visual identity
+- Graphite and orange visual identity
 - Interactive Three.js product viewer
   - Switch between speaker and robot studies
   - Drag to rotate the model
@@ -95,7 +95,7 @@ Pushing a commit to `main` triggers a deployment through the repository's Vercel
 - **Form:** precise geometry and clear proportions
 - **Material:** honest, tactile surfaces and durable finishes
 - **Function:** every visible detail should have a purpose
-- **Identity:** restrained graphite surfaces with CMF orange accents
+- **Identity:** restrained graphite surfaces with orange accents
 
 ## Contact
 
